@@ -1,0 +1,7 @@
+{
+    "name": "glamkas/jquery.ColorPicker",
+    "description": "The jQuery Colorpicker JS/CSS library",
+    "homepage": "https://www.eyecon.ro/colorpicker/",
+    "license": "(MIT or GPL-1.0)",
+    "require": {}
+}
